@@ -38,3 +38,16 @@ p{
 .Donet-today{
     text-align: center;
 }
+
+
+.monye {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.monye-box {
+    color: rgb(230, 100, 122);
+    border-style: solid;
+    padding: 10px 20px;
+}
