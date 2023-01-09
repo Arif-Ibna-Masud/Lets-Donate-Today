@@ -97,3 +97,16 @@ p{
     padding: 5px 20px;
     border-style: solid;
 }
+
+
+
+footer{
+    text-align: center;
+    padding: 12px;
+    background-color: rgb(15, 15, 15);
+    color: tomato;
+}
+.gmail{
+    color: rgb(88, 26, 117);
+    text-decoration: none;
+}
