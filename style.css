@@ -1,0 +1,24 @@
+h1{
+    font-size: 76px;
+}
+.top-banner-image{
+    background-image: url(image/donate-today.jpg);
+    background-size: cover;
+    height: 650px;
+    background-position: center;
+}
+body{
+    margin: 0%;
+    font-family: sans-serif;
+}
+.banner-text {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-20%,-20%);
+}
+p{
+    font-size: 18px;
+}
